@@ -86,7 +86,8 @@ class FolderFxs:
         else:
             if ftype_descs is None:
                 raise Exception("Unknown mimetype.")
-            # Custom types
+
+            # Custom file extension
             for ftype in self.ftype_settings:
                 if re.search(ftype, os.path.splitext(filename)[1]):
                     self.sort_results["File Types"][ftype] += 1
@@ -191,6 +192,8 @@ class FileSort(FileDf):
         for root, dirs, files in os.walk(self.path, topdown=False):
             root = os.path.normpath(root)
             destination = (root if in_place else self.path)
+
+            # Check if sorting in one of the ignored dirs. Skip if root dir matches one of the ignored dirs.
             if any([os.path.samefile(item, root) if item else False for item in ignore]):
                 logging.info(f'*Skipped sorting ({root}).')
             else:

@@ -128,10 +128,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-=======
-_pycache_/
+
+# Ignored
 .idea/
 Pictures/
-venv/
-*.log
->>>>>>> 162abca... first commit
+Microscope Stuff/
+
