@@ -5,7 +5,7 @@ scripts on company networks seemed like a bad idea. While functional, I would on
 folders/organization as I didn't implement a way to revert changes. :P
 
 <p align="center">
-    <img width=400 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/ui.png?token=AO7RZYIGFYIW2PFDHTEHS33AYWQ5S">
+    <img width=400 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/ui.png?token=AO7RZYP4J4V5QQQZNOMIPULAYWTXE"/>
 </p>
 
 ## Sorting
