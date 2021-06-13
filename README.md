@@ -14,12 +14,12 @@ Sorts based on three categories: **date**, **file type**, and **keywords**.
 Categories can be omitted or reordered and will result in different nested arrangement of files.
 
 <p align="center">
-   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/date_keyword.png?token=AO7RZYKAR6T2KCFF4QC4EF3AYWQG2">
-   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/keyword_date.png?token=AO7RZYMQOLP7XJKM4MV76RDAYWQLE">
+   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/date_keyword.png?token=AO7RZYJ4ZRSDD5D65LZQFMTAYWTA6"/>
+   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/keyword_date.png?token=AO7RZYIQVIBD3QQEJBU6RI3AYWTLE"/>
 </p>
 <p align="center">
-   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/date_keyword_tree.png?token=AO7RZYIZW37V5RDPVF7KYSLAYWQUO">
-   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/keyword_date_tree.png?token=AO7RZYNLHIRWDEVZEEGQYXLAYWQU4">
+   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/date_keyword_tree.png?token=AO7RZYI3EZOLHG62I47UPELAYWTN6"/>
+   <img width=300 src="https://raw.githubusercontent.com/koisland/FileSorter/main/docs/keyword_date_tree.png?token=AO7RZYPBCUVECEQDUG6TWCDAYWTOE"/>
 </p>
 <p align="center">
    <b>Sort by <em>date then keyword</em> (left) and by <em>keyword then date</em> (right)</b>
